@@ -315,6 +315,11 @@ nav ul {
     font-size: 1.7rem;
 }
 
+.youtubeVid {
+    width: 60%;
+    aspect-ratio: 16/9;
+}
+
 .section2 .wrapper {
     width: 100%;
     margin: 2% auto;
